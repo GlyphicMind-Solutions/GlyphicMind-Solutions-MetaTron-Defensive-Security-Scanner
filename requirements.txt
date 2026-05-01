@@ -1,0 +1,21 @@
+# --- Core GUI ---
+PyQt5>=5.15.10
+
+# --- LLM Engine (LocalAI / GGUF models) ---
+llama-cpp-python>=0.2.90
+
+# --- Prompt + Parsing ---
+PyYAML>=6.0.1
+
+# --- Database (SQLite) ---
+# Python includes sqlite3 by default; no external package needed.
+
+# --- Recon Tools (Python-side helpers) ---
+psutil>=5.9.8
+
+# --- Optional: safer JSON + schema validation ---
+jsonschema>=4.21.1
+
+# --- Optional: colored terminal output for debugging ---
+colorama>=0.4.6
+

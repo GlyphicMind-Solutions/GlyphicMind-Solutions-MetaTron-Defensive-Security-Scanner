@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "metatron",
+    "password": "123",
+    "database": "metatron"
+  },
+  "agents_path": "../soul/agents",
+  "tools": {
+    "enable_nikto": false
+  }
+}
+
